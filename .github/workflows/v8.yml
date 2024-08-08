@@ -14,8 +14,8 @@ on:
 
 env:
   PATCH_FLAG: true
-  COMMIT: '11.8.172'
-  DEPOT_UPLOAD: false
+  COMMIT: refs/tags/11.8.172
+  DEPOT_UPLOAD: true
   SRC_UPLOAD: true
   BINARY_UPLOAD: false
 
